@@ -1,8 +1,8 @@
-C#-Depth-First-Search-Case 👾 
+# C#-Depth-First-Search-Case 👾 
 
 Objective: Create an interactive  n×n grid, pre-filled with a percentage given by the user, where the user can click on cells to mark them with a red "X". When three adjacent cells (horizontally, vertically, not diagonally) are marked, they should disappear.
 
-Features:
+## Features:
 
 Grid Creation: Generate a square grid of size n×n pre-filled with X's based on user input.
 
