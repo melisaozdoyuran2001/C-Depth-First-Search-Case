@@ -16,5 +16,8 @@ Reusability of Cells: Once cells are cleared, they should be clickable again, al
 Responsive Design: Regardless of the grid size, it should fit the viewport.
 
 
-https://github.com/melisaozdoyuran2001/C-Depth-First-Search-Case/assets/123209674/a054c3d0-750e-4a36-85ff-06eee3d98ef9
+
+https://github.com/melisaozdoyuran2001/C-Depth-First-Search-Case/assets/123209674/5471b0aa-5d5f-4d93-a072-7e2c9b188193
+
+
 
