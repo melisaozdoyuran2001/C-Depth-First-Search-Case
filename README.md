@@ -14,3 +14,7 @@ Clearing Cells: If three adjacent cells (horizontally, vertically, not diagonall
 Reusability of Cells: Once cells are cleared, they should be clickable again, allowing users to mark them with "X".
 
 Responsive Design: Regardless of the grid size, it should fit the viewport.
+
+
+https://github.com/melisaozdoyuran2001/C-Depth-First-Search-Case/assets/123209674/a054c3d0-750e-4a36-85ff-06eee3d98ef9
+
