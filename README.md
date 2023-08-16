@@ -1,4 +1,5 @@
 C#-Depth-First-Search-Case
+
 Objective: Create an interactive  n×n grid, where the user can click on cells to mark them with a red "X". When three adjacent cells (horizontally, vertically, not diagonally) are marked, they should disappear.
 
 Features:
